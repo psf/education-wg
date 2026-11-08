@@ -6,13 +6,13 @@ The Education & Outreach Workgroup's (EOW) purpose is to support the Python Soft
 
 ## Projects
 
-### Guild of Educators 
+### Guild of Educators (GOE)
 
 The Guild of Educators is a free and open community for people who teach or are interested in teaching software development. We share resources, red books together and are open to allowing new people to step in and add value to the community by brining their own ideas and initiatives.
 
-- Where: Guild of Educators Discord
+- Where: [Guild of Educators Discord](https://discord.gg/8cPdX2bAze)
 - [Website](https://guildofeducators.org)
-- [Website repo]() Note that the website is being rebuilt, so the repo is still quite bare
+- [Website repo](https://github.com/Guild-of-Educators/website) Note that the website is being rebuilt, so the repo is still quite bare
 
 
 ### Organisers' Toolkit
